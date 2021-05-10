@@ -1,0 +1,9 @@
+.header {
+  text-align: center;
+  background-color: $background;
+  text-transform: uppercase;
+
+  &__title {
+    color: $color-dark;
+  }
+}
